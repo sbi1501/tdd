@@ -1,1 +1,1 @@
-# tdd
+Study project for TDD
